@@ -1,0 +1,17 @@
+@import url('sidebar.css');
+@import url('topbar.css');
+@import url('content_topbar.css');
+@import url('utility.css');
+@import url('table.css');
+
+
+body {
+    margin: 0;
+    font-family: "Lato", sans-serif;
+
+    font-size: 10px;
+}
+
+.content_body {
+    margin: 1rem;
+}

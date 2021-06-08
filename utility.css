@@ -1,0 +1,112 @@
+/* Text */
+.txt_violet {
+    color: #8a83c9;
+}
+.txt_red {
+    color: #d27c5d;
+}
+.txt_yellow {
+    color: #f2bc69;
+}
+.txt_green {
+    color: #84a66f;
+}
+.txt_blue {
+    color: #1d2c8e;
+}
+.txt_black {
+    color: #515151;    
+}
+.text_bold {
+    font-weight: bolder;
+}
+
+
+/* Border */
+.brdr_violet {
+    border-color: #8a83c9 !important;
+}
+.brdr_red {
+    border-color: #d27c5d !important;
+}
+.brdr_yellow {
+    border-color: #f2bc69 !important;
+}
+.brdr_green {
+    border-color: #84a66f !important;
+}
+.brdr_blue {
+    border-color: #1d2c8e !important;
+}
+.brdr_black {
+    border-color: #515151 !important;
+}
+
+
+
+
+
+
+
+/* Buttons */
+._btn {
+    background-color: white;
+    border: 1px solid rgb(126, 126, 126);
+    padding: 4px 10px;
+    border-radius: 4px;
+    transition: all .2s ease;
+}
+._btn:hover {
+    background-color: rgb(228, 228, 228);
+}
+
+
+/* Label */
+._label {
+    font-size: .7rem;
+    background: #cccccc;
+    color: black;
+    padding: 6px 15px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+._label_green {
+    background: #e1fad3;
+    color: #6c8860;
+}
+._label_outline {
+    padding: 3px 25px;
+    background-color: transparent;
+    border: 2px solid #cccccc;
+    color: #cccccc;
+    font-weight: normal;
+    font-size: .8rem;
+}
+._label_outlien_green {
+    border: 1px solid #6c8860;
+    color: #6c8860;
+}
+._label_outline_violet {
+    border-color: #8a83c9 !important;
+    color: #8a83c9;
+}
+._label_outline_red {
+    border-color: #d27c5d !important;
+    color: #d27c5d;
+}
+._label_outline_yellow {
+    border-color: #f2bc69 !important;
+    color: #f2bc69;
+}
+._label_outline_green {
+    border-color: #84a66f !important;
+    color: #84a66f;
+}
+._label_outline_blue {
+    border-color: #1d2c8e !important;
+    color: #4555ca;
+}
+._label_outline_black {
+    border-color: #515151 !important;
+    color: #515151;
+}
